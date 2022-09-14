@@ -1,2 +1,2 @@
 # CV
-Projeto de visão computacional 
+Projeto da cadeira de visão computacional usando linguaguem python 
